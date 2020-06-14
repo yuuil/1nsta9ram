@@ -1,19 +1,6 @@
 # 1nsta9ram
 Instagram clone with Express + Prisma + React and React Native
 
-## User Stories
+## Project Kahnban
 
-- [x] Create account
-- [x] Request Secret
-- [x] Confirm Secret (Login)
-- [x] Like / Unlike a photo
-- [x] Comment on a photo
-- [x] Search by user
-- [x] Search by location
-- [ ] See user profile
-- [ ] Follow / Unfollow user
-- [ ] See the full photo
-- [ ] Edit my profile
-- [ ] Upload a photo
-- [ ] Edit the photo
-- [ ] See the feed
+[✨To Do List✨](https://github.com/yuuil/1nsta9ram/projects/1)
