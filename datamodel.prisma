@@ -1,6 +1,6 @@
 type User {
   id: ID! @id
-  avatar: String
+  avatar: String @default(value: "https://www.kindpng.com/picc/m/78-785827_user-profile-avatar-login-account-male-user-icon.png")
   username: String! @unique
   email: String! @unique
   firstName: String @default(value: "")
